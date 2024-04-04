@@ -27,7 +27,7 @@ const whatsappRoutes = require('./routes/whatsappRoutes');
 
 const tokenRoutes = require('./routes/tokenRoutes');
 const exerciceRoutes = require('./routes/exerciceRoutes');
-const chatGPTRoutes = require('./routes/chatGroupRoutes');
+const chatGPTRoutes = require('./routes/chatGPTRoutes');
 
 
 // Aquí activas las rutas que habías comentado previamente
